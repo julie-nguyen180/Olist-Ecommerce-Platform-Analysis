@@ -22,5 +22,4 @@ This project presents an interactive Power BI dashboard analysing seller perform
 - While the average customer rating remains strong (4.28), a slight MoM decline (-0.08) may signal early fulfilment or satisfaction issues under growing transaction load.
 
 ### 🧩 Seller Cluster Insights
-- 
 ![image](https://github.com/user-attachments/assets/509b440a-aa91-45d3-b092-9c47f9b9dc04)
